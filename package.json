@@ -1,0 +1,22 @@
+{
+  "name": "waterline-errors",
+  "version": "0.0.1",
+  "author": "vanetix <matmcfarland@gmail.com>",
+  "description": "Potential errors that can be returned from waterline",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vanetix/waterline-errors"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "waterline",
+    "errors"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  }
+}
