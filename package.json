@@ -1,8 +1,8 @@
 {
   "name": "waterline-errors",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "author": "vanetix <matmcfarland@gmail.com>",
-  "description": "Potential errors that can be returned from waterline",
+  "description": "Standard adapter errors from Waterline",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
   },
   "keywords": [
     "waterline",
+    "sails",
     "errors"
   ],
   "license": "MIT",
