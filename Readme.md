@@ -3,3 +3,21 @@
 # waterline-errors
 
 A module for errors returned from waterline schema, queries, and adapters.
+
+
+## Usage
+
+```javascript
+var Err = require('waterline-errors');
+
+
+function someFn (options, cb) {
+  var success = false;
+  if (success) return cb();
+  return cb(Err.adapter.collectionNotRegistered);
+}
+
+```
+
+## License
+MIT
