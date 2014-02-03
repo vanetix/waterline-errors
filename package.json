@@ -1,6 +1,6 @@
 {
   "name": "waterline-errors",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "author": "vanetix <matmcfarland@gmail.com>",
   "description": "Standard adapter errors from Waterline",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "url": "git@github.com:vanetix/waterline-errors"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "keywords": [
     "waterline",
