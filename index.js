@@ -39,6 +39,7 @@ function expose(anchor, name, message) {
 
       err.name = capitalize(anchor) + 'Error';
       err.message = message;
+      Error.captureStackTrace(err, arguments.callee);
       return err;
     }
   });
