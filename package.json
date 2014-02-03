@@ -3,7 +3,9 @@
   "version": "0.10.0",
   "author": "vanetix <matmcfarland@gmail.com>",
   "description": "Standard adapter errors from Waterline",
+  "homepage": "https://github.com/vanetix/waterline-errors",
   "main": "index.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:vanetix/waterline-errors"
@@ -16,8 +18,12 @@
     "sails",
     "errors"
   ],
-  "license": "MIT",
   "devDependencies": {
     "mocha": "~1.12.0"
-  }
+  },
+  "files": [
+    "lib",
+    "License",
+    "index.js"
+  ]
 }
