@@ -1,6 +1,6 @@
 {
   "name": "waterline-errors",
-  "version": "0.10.0-rc1",
+  "version": "0.10.0",
   "author": "vanetix <matmcfarland@gmail.com>",
   "description": "Standard adapter errors from Waterline",
   "homepage": "https://github.com/vanetix/waterline-errors",
